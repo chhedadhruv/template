@@ -39,7 +39,6 @@ function App() {
     <div  className='intro-col'>
     <div className='intro-row'>
     <div className='intro'>
-    <img src={IntroImg} alt=''></img>
       <div className='intro-span'>
         <h1>I</h1>
         <span><h1>'</h1></span>
@@ -53,6 +52,7 @@ function App() {
       <h5 id='h5-intro'>UX/UI DESIGNER & WEB</h5>
       <h5>DEVELOPER</h5>
     </div>
+    <img src={IntroImg} alt='' height='300rem' width='500rem'></img>
     </div>
     </div>
     <div className='professional' id='professional'>
